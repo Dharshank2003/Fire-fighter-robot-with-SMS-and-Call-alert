@@ -1,1 +1,2 @@
-# Fire-fighter-robot-with-SMS-and-Call-alert
+This fire fighter robot is designed to detect and extinguish fire autonomously. The robot uses flame and gas sensors to identify fire, navigates towards the source, and activates a water pump to extinguish the flame. 
+It also sends SMS alerts and makes calls to notify emergency contacts. The project enhances fire safety by offering a quick response, particularly in indoor environments. Future enhancements include adding toxic gas detection and advanced communication channels.
